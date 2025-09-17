@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.port": 3333,
+    "liveServer.settings.https": {
+        "enable": false, 
+        "cert": "/Users/makaka.org/Documents/bitbucket/sensor-camera/build_webgl/localhost.pe..", 
+        "key": "/Users/makaka.org/Documents/bitbucket/sensor-camera/build_webgl/localhost.key",
+        "passphrase": "123456"
+    }
+}
